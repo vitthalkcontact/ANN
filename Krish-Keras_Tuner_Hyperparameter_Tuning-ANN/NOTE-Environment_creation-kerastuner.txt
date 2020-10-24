@@ -1,0 +1,35 @@
+# Keras-Tuner
+https://github.com/krishnaik06/Keras-Tuner
+https://keras-team.github.io/keras-tuner/
+
+
+Procedure to create environment:
+Following to be installed in the envirnment (tensorflow must be > 2.0.0 version)
+python==3.7.0
+tensorflow==2.3.1
+ketas-tuner
+
+
+
+
+https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+
+conda create -n yourenvname python=x.x anaconda
+
+conda create -n kerastuner python=3.7 anaconda
+
+conda activate kerastuner
+
+python
+
+conda install -c anaconda tensorflow-gpu
+
+conda install -c anaconda tensorflow-gpu
+
+https://pypi.org/project/tensorflow/
+
+pip install tensorflow==2.3.1
+
+https://keras-team.github.io/keras-tuner/
+
+pip install -U keras-tuner
